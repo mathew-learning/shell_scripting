@@ -1,5 +1,6 @@
 #! /usr/bin/bash
 
+echo "freecodecamp code"
 echo "A"
 read a
 echo "B"
