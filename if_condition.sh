@@ -1,5 +1,7 @@
 #! /usr/bin/bash
 
+
+echo "freecodecamp if condition"
 echo "num1"
 read num1
 echo "num2"
