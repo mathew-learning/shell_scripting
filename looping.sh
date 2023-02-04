@@ -1,6 +1,5 @@
 #! /usr/bin/bash
 
-echo "freecodecamp code"
 for i in {1..5}
 do 
 echo $i

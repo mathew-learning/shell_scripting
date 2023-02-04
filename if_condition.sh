@@ -1,12 +1,11 @@
 #! /usr/bin/bash
 
-
-echo "freecodecamp if condition"
 echo "num1"
 read num1
 echo "num2"
 read num2
-
+echo "num3"
+read num3
 
 if [ $num1 -gt $num2 ]
 then
